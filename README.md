@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Plamen Sotirov
+- 👀 I’m interested in programming with Python
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking for a job as an intern
+- 📫 How to reach me: email is plamen5020@abv.bg
